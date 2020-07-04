@@ -1,4 +1,4 @@
-<h2><img align="right" height="205" src="https://i.giphy.com/media/ftHNle25rthTu19OAd/giphy.webp">Hello, I'm Bailey</h2>
+<h2><img align="right" height="205" src="https://i.giphy.com/media/ftHNle25rthTu19OAd/giphy.webp">Hey, I'm Bailey</h2>
 
 - 🔭 I’m currently working on [Jexia SDK (Go)](https://github.com/BaileyJM02/jexia-sdk-go)
 - 🌱 I’m currently learning how to code distributed computing programs in Go
