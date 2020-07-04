@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Bailey.
+
+I'm a full-stack developer, exploring real-time data-driven analytics.
 
 <!--
 **BaileyJM02/BaileyJM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
